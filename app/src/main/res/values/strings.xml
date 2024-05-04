@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AIKUDA</string>
+    <string name="naver_map_sdk_client_id" translatable="false">ozk37a1dcn</string>
 </resources>
