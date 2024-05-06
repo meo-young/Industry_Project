@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AiKU</string>
+    <string name="app_slogan">아이쿠! 또 지각이네?!</string>
+
+    <string name="native_app_key">b6f52f15d62cac7230b0766e658f1fe7</string>
+    <string name="kakao_native_app_key">kakaob6f52f15d62cac7230b0766e658f1fe7</string>
+</resources>
